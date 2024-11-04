@@ -1,0 +1,22 @@
+*{
+  font-family: Inter, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+:root{
+  --primaryColor:#ff800d;
+  --SecondaryColor: white;
+  --paraColor: #ffffffb3;
+  --linkColor:#80b0ff;
+}
+html{
+  scroll-behavior: smooth;
+}
+body
+{
+  background-color: black;
+ 
+}
